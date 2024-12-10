@@ -10,11 +10,11 @@ export function Banner() {
           </span>
           <a
             href="#"
-            className="flex items-center gap-1 hover:underline hover:underline-offset-2"
+            className="group flex items-center gap-1 hover:underline hover:underline-offset-2"
             aria-label="View the complete SaaS Website Kit"
           >
             View the complete Kit
-            <ArrowRight />
+            <ArrowRight className="transition duration-300 group-hover:-rotate-45" />
           </a>
         </p>
       </div>
