@@ -6,8 +6,8 @@ import Image from "next/image";
 
 export function Hero() {
   return (
-    <div className="relative overflow-clip bg-black bg-hero py-14 text-white">
-      <div className="absolute left-1/2 top-[calc(100%-86px)] h-[375px] w-[750px] -translate-x-1/2 rounded-[100%] border border-[#B48CDE] bg-[radial-gradient(51.38%_51.38%_at_50%_50%,_#000_82.2%,_#9560EB_100%)] sm:h-[768px] sm:w-[1536px] sm:py-24 lg:h-[1200px] lg:w-[2400px]"></div>
+    <div className="relative overflow-clip bg-black bg-hero pt-14 pb-64 text-white">
+      <div className="absolute left-1/2 top-[calc(100%-282px)] h-[375px] w-[750px] -translate-x-1/2 rounded-[100%] border border-[#B48CDE] bg-[radial-gradient(51.38%_51.38%_at_50%_50%,_#000_82.2%,_#9560EB_100%)] sm:h-[768px] sm:w-[1536px] sm:py-24 lg:h-[1014px] lg:w-[2344px]"></div>
       <div className="container relative">
         <div className="space-y-8 text-center">
           <div className="">
