@@ -1,8 +1,10 @@
-import { Banner } from "@/components/Banner";
-import { Features } from "@/components/Features";
-import { Header } from "@/components/Header";
-import { Hero } from "@/components/Hero";
-import { Partners } from "@/components/Partners";
+import { Banner } from "@/components/banner";
+import { FAQs } from "@/components/FAQs";
+import { Feature } from "@/components/Feature";
+import { Header } from "@/components/header";
+import { Hero } from "@/components/hero";
+import { Partners } from "@/components/partners";
+import { ShowCase } from "@/components/showcase";
 
 export default function Home() {
   return (
@@ -11,7 +13,9 @@ export default function Home() {
       <Header />
       <Hero />
       <Partners />
-      <Features />
+      <Feature />
+      <ShowCase />
+      <FAQs />
     </>
   );
 }
