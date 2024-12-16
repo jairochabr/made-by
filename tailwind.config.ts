@@ -18,10 +18,20 @@ export default {
         shadow:
           "linear-gradient(to right, #F87BFF, #FB92CF, #FFDD9B, #C2F0B1, #2FD8FE)",
         hero: "linear-gradient(180deg, #000 0%, #200D42 34.22%, #4F21A1 64.9%, #A46EDB 81.78%)",
-        text_gradient:
+        "text-gradient":
           "linear-gradient(to right, #F87BFF, #FB93D0, #FFDD99, #C3F0B2, #2FD8FE)",
       },
-      colors: {},                    
+      colors: {
+        brand: {
+          primary: "#5D2CAB",
+          secondary: "#AC6AFF",
+          gray: "rgba(255,255,255,0.2)",
+          white: "#FFFFFF",
+        },
+      },
+      fontSize: {
+        "3.5xl": "2rem",
+      },
     },
   },
   plugins: [],
