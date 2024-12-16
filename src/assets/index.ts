@@ -12,13 +12,6 @@ import echo from './partners/echo.png';
 import pulse from './partners/pulse.png';
 import quantum from './partners/quantum.png';
 
-import instagram from './socials/instagram.svg';
-import linkedIn from './socials/linkedIn.svg';
-import pinterest from './socials/pinterest.svg';
-import tikTok from './socials/tiktok.svg';
-import X from './socials/x.svg';
-import youTube from './socials/youtube.svg';
-
 export {
   cursor,
   madeByLogo,
@@ -32,10 +25,4 @@ export {
   pulse,
   quantum,
   appScreen,
-  instagram,
-  linkedIn,
-  pinterest,
-  tikTok,
-  X,
-  youTube
 }
