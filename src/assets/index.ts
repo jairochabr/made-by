@@ -1,6 +1,9 @@
 import cursor from './images/cursor.png';
 import madeByLogo from './images/logo.png';
 import message from './images/message.png';
+import appScreen from './images/app-screen.png'
+import emojiStar from './images/emojistar.png';
+import helix from './images/helix.png';
 
 import acme from './partners/acme.png';
 import apex from './partners/apex.png';
@@ -13,10 +16,13 @@ export {
   cursor,
   madeByLogo,
   message,
+  emojiStar,
+  helix,
   acme,
   apex,
   celestia,
   echo,
   pulse,
-  quantum
+  quantum,
+  appScreen,
 }
