@@ -1,4 +1,4 @@
-import { Menu as MenuIcon } from "../icons/menu";
+import { Menu as MenuIcon } from "../icons";
 
 export function Menu() {
   return (
