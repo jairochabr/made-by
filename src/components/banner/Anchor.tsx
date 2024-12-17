@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ReactNode } from "react";
 
-import { ArrowRight } from "@/components/icons/arrow-right";
+import { ArrowRight } from "@/components/icons";
 
 interface AnchorProps {
   href: string;
