@@ -1,6 +1,6 @@
-import { Banner } from "@/components/Banner";
-import { Header } from "@/components/Header";
-import { Hero } from "@/components/Hero";
+import { Banner } from "@/components/Banner/index";
+import { Header } from "@/components/Header/index";
+import { Hero } from "@/components/Hero/index";
 import { Partners } from "@/components/Partners";
 import { Feature } from "@/components/Features";
 import { ShowCase } from "@/components/Showcase";
